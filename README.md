@@ -1,2 +1,2 @@
 # Udemy-Challenges
-finished challenges from Udemy web developer course
+Completed challenges from Udemy web developer course
